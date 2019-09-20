@@ -1,5 +1,7 @@
+package folder1;
+
 public class t3 {
-    public static void main(String[] args) {
+    public static void main() {
         int storona=5;
         for (int i = 0; i <storona ; i++) {
             System.out.println();
